@@ -6,12 +6,12 @@ As I work on more programs I will update the readme and the repositories list!
 
 ## Pinned Projects :
 
-Expense Tracker, 
+Expense Tracker, https://github.com/Sarve002/ExpenseWebApp
 
 Foodies Application, https://github.com/Sarve002/FoodRecipes101-Foodies
 
-Parsetagram,
+Parsetagram, https://github.com/Sarve002/Instagram
 
-Mock Twitter,
+Mock Twitter, https://github.com/Sarve002/Twitter
 
-CatApp
+CatApp https://github.com/Sarve002/catApp
