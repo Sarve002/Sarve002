@@ -6,9 +6,9 @@ As I work on more programs I will update the readme and the repositories list!
 
 ## Pinned Projects :
 
-Expense Tracker,
+Expense Tracker, 
 
-Foodies Application,
+Foodies Application, https://github.com/Sarve002/FoodRecipes101-Foodies
 
 Parsetagram,
 
