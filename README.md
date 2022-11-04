@@ -6,8 +6,12 @@ As I work on more programs I will update the readme and the repositories list!
 
 ## Pinned Projects :
 
-Expense Tracker
-Foodies Application
-Parsetagram
-Mock Twitter
+Expense Tracker,
+
+Foodies Application,
+
+Parsetagram,
+
+Mock Twitter,
+
 CatApp
